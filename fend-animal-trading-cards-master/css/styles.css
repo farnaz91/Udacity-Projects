@@ -1,21 +1,27 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	background-color: #ebf0fa;
+	margin-left: auto;
+	margin-right: auto;
 }
-.container {	
+.container {
+	margin: auto;	
+	width: 300px;  
+	margin-left: auto;
+	margin-right: auto;	
 	border: 1px solid #bfbfbf;
-	margin: 20px 15px 20px 8px;	
+	border-radius: 5px;
 	text-align: left;
-	border-collapse: separate;
-    border-spacing: 400px;
 	box-shadow: 10px 10px 5px #eaeae1;
 	padding: 20px 20px 20px 20px;
 }
+
 .h3{
   padding: initial;
 }
 .item {
 	border: 1px solid #bfbfbf;
+	border-radius: 5px;
 	padding: 10px 10px;
 	border-collapse: separate;
 }

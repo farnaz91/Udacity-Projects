@@ -1,0 +1,43 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #ebf0fa;
+}
+.container {	
+	border: 1px solid #bfbfbf;
+	margin: 20px 15px 20px 8px;	
+	text-align: left;
+	border-collapse: separate;
+    border-spacing: 400px;
+	box-shadow: 10px 10px 5px #eaeae1;
+	padding: 20px 20px 20px 20px;
+}
+.h3{
+  padding: initial;
+}
+.item {
+	border: 1px solid #bfbfbf;
+	padding: 10px 10px;
+	border-collapse: separate;
+}
+.animals-list{
+	list-style-type: none;
+	padding: initial;
+}
+.label{
+	font-weight: bold;
+}
+
+#mandarin-image {
+	width:300px;
+	height: auto;
+	padding-bottom: 20px;
+	max-width:100% !important;
+    max-height:100% !important;
+    display: block;
+}
+
+#mandarinfish-interesting-facts {	
+	font-style: italic;
+	padding: initial;
+}
+
